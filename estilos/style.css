@@ -525,7 +525,7 @@ header.sticky {
     }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 400px) {
     header{
         padding: 12px 3%;
     }
@@ -536,3 +536,4 @@ header.sticky {
         padding: 60px 3% 50px;
     }
 }
+
