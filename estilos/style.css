@@ -525,12 +525,12 @@ header.sticky {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 329px) {
     header{
-        padding: 12px 3%;
+        padding: 18px 3%;
     }
     header.sticky{
-        padding: 17px 3%;
+        padding: 20px 3%;
     }
     section{
         padding: 60px 3% 50px;
